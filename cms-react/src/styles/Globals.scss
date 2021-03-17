@@ -1,0 +1,211 @@
+
+/*------------------------------------*\
+  #GLOBAL SETTINGS
+\*------------------------------------*/
+
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.flex {
+  display: flex;
+
+  &--justify {
+    &-around {
+      justify-content: space-around;
+    }
+    &-between {
+      justify-content: space-between;
+    }
+  }
+
+  &--position {
+    &-center-h {
+      align-content: center;
+    }
+    &-center-v {
+      align-self: center;
+    }
+    &-end-v {
+      align-self: flex-end;
+    }
+  }
+
+  &--direction {
+    &-cols {
+      flex-direction: column;
+    }
+    &-rows {
+      flex-direction: row;
+    }
+  }
+
+  &--grow {
+    &-0 {
+      flex-grow: 0;
+    }
+    &-1 {
+      flex-grow: 1;
+    }
+  }
+
+  &--wrap {
+    flex-wrap: wrap;
+  }
+
+  &--fill {
+    flex-grow: 1;
+  }
+}
+
+.mar { //margin
+  &--auto {
+    margin: auto;
+  }
+  &--all {
+    &-10 {
+      margin: 10px;
+    }
+  }
+  &--t {
+    &-10 {
+      margin-top: 10px;
+    }
+    &-20 {
+      margin-top: 20px;
+    }
+  }
+  &--b {
+    &-10 {
+      margin-bottom: 10px;
+    }
+    &-20 {
+      margin-bottom: 20px;
+    }
+  }
+}
+
+.pad { // padding
+  &--all {
+    &-10 {
+      padding: 10px;
+    }
+    &-20 {
+      padding: 20px;
+    }
+  }
+  &--t {}
+  &--r {
+    &-20 {
+      padding-right: 20px;
+    }
+  }
+  &--b {
+    &-20 {
+      padding-bottom: 20px;
+    }
+  }
+  &--l {
+    &-20 {
+      padding-left: 20px;
+    }
+  }
+}
+
+.hoverable {
+  cursor: pointer;
+}
+
+.relative {
+  position: relative;
+}
+
+/*------------------------------------*\
+  #GLOBAL SETTINGS
+\*------------------------------------*/
+
+form {
+  select {
+    width: 100%;
+    cursor: pointer;
+  }
+  option {
+    color: var(--gray);
+    background: var(--white);
+    font-size: var(--medium-font);
+  }
+  textarea {
+    resize: none;
+    min-height: 100px;
+    max-height: 500px;
+  }
+
+  input, textarea, select, option {
+    background: rgba(0, 0, 0, 0);
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 2px;
+    border: 1px solid var(--gray);
+    color: var(--gray);
+
+    &.hasValue {
+      background: var(--gray);
+      color: var(--white);
+      
+      option {
+        color: var(--white);
+        background: var(--gray);
+        font-size: var(--medium-font);
+      }
+    }
+  }
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active
+{
+  box-shadow: 0 0 0 30px var(--gray) inset;
+ -webkit-box-shadow: 0 0 0 30px var(--gray) inset;
+ -webkit-text-fill-color: var(--white);
+}
+
+.error-wrap {
+  position: relative;
+  &:hover {
+    .error {
+      opacity: 0.4;
+    }
+  }
+}
+
+.error {
+  background: var(--red);
+  color: var(--white);
+  font-size: var(--tiny);
+  padding: 2px 4px;
+
+  &--top {
+    position: absolute;
+    top: 6px;
+  }
+
+  &--right {
+    position: absolute;
+    right: 1px;
+  }
+}
+
+button {
+  &:disabled {
+    background: var(--gray);
+    cursor: default;
+  }
+}

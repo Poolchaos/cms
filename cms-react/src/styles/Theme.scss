@@ -1,0 +1,66 @@
+@import "./ThemeLight.scss";
+@import "./ThemeDark.scss";
+
+/*------------------------------------*\
+  #THEME SETTINGS
+\*------------------------------------*/
+
+:root {
+  --red: #690c15;
+  --white: #ffffff;
+  --gray: #3f3f40;
+  
+  /* ---- font sizes ---- */
+  --tiny: 14px;
+  --small: 16px;
+  --medium: 20px;
+  --large: 28px;
+}
+
+.font {
+  &--tiny {
+    font-size: var(--tiny);
+  }
+  &--small {
+    font-size: var(--small);
+  }
+  &--medium {
+    font-size: var(--medium);
+  }
+  &--large {
+    font-size: var(--large);
+  }
+}
+
+.text {
+  &--red {
+    color: var(--red);
+  }
+  &--white {
+    color: var(--white);
+  }
+  &--gray {
+    color: var(--gray);
+  }
+}
+
+.background {
+  &--red {
+    background-color: var(--red);
+  }
+  &--white {
+    background-color: var(--white);
+  }
+  &--gray {
+    background-color: var(--gray);
+  }
+}
+
+.theme {
+  &--light {
+    @include ThemeLight;
+  }
+  &--dark {
+    @include ThemeDark;
+  }
+}

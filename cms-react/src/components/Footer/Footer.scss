@@ -1,0 +1,20 @@
+#footer {
+  .nav {
+    display: none;
+
+    &--wide {
+      @media screen and (min-width: 750px) {
+        display: flex!important;
+      }
+    }
+    &--thin {
+      @media screen and (max-width: 749px) {
+        display: flex!important;
+      }
+      .logo {
+        width: 40px!important;
+        margin: 10px auto;
+      }
+    }
+  }
+}
