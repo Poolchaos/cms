@@ -1,16 +1,22 @@
+
+import { Link } from "react-router-dom";
+
 import './Header.scss';
 
 const Header = () => {
-  return(
+  return (
     <div id="header">
       <div className="nav nav--wide flex flex--justify-around">
-        Services
+        <Link to="/services">Services</Link>
         <div className="divider">&#9830;</div>
-        Explore
-          <div className="font--medium pad--all-10">Flaapworks</div>
-        About
+        <Link to="/explore">Explore</Link>
+        <div className="font--medium pad--all-10">
+          <Link to="/">Flaapworks</Link>
+        </div>
+        <Link to="/about">About</Link>
         <div className="divider">&#9830;</div>
-        Get In Touch
+        <Link to="/contact">Get In Touch</Link>
+        
       </div>
 
       <div className="nav nav--thin flex flex--justify-between">
