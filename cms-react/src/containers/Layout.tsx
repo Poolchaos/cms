@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Layout =({children}) =>{
+const Layout =(props: {children: IProps}) =>{
     return(
       <div id="layout--template">
-        <Header/>
-        <main>{children}</main>
-        <Footer/>
+        {/* <Header/> */}
+        <main>{props.children}</main>
+        {/* <Footer/> */}
       </div>
     )
 }
