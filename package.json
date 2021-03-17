@@ -1,0 +1,32 @@
+{
+  "name": "cms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm-run-all -p start:app:react start:be",
+    "start:app:react": "cd cms-react && set DEBUG=myapp:* & npm start",
+    "start:be": "cd cms-service && set DEBUG=myapp:* & npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Poolchaos/ann.git"
+  },
+  "author": "Phillip-Juan van der Berg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Poolchaos/ann/issues"
+  },
+  "homepage": "https://github.com/Poolchaos/ann#readme",
+  "devDependencies": {
+    "npm-run-all": "^4.1.5"
+  },
+  "dependencies": {
+    "@types/jest": "^26.0.20",
+    "@types/node": "^14.14.35",
+    "@types/react": "^17.0.3",
+    "@types/react-dom": "^17.0.2",
+    "typescript": "^4.2.3"
+  }
+}

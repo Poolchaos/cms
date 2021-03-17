@@ -1,0 +1,587 @@
+{"date":1613813261961,"email":"bbb@gmail.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613813261961,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImJiYkBnbWFpbC5jb20iLCJfaWQiOiI2MDMwMDNiY2EyYzI3MTBiYmNmZGQ5MGYiLCJ2YWxpZEJ5IjoiMjAyMS0wMi0yMFQwOTo0ODoxMy45MzRaIiwiaWF0IjoxNjEzODEwODkzfQ.6evPaWZlzs33rLbS_8c61HVQOSqm1t441eMhObXrNMg","domain":"passport","level":"error","message":"Confirm password reset token is valid"}
+{"date":1613813261961,"email":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDMwMDNiY2EyYzI3MTBiYmNmZGQ5MGYiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJiYmJAZ21haWwuY29tIiwibnVtYmVyIjoiKzI3NzEyNTY5NDMxIiwicm9sZSI6IkFkbWluIiwidG9rZW4iOm51bGwsIl9fdiI6MCwiaWF0IjoxNjEzNzU5NDMzfQ.tjilZPbcjos7sAzMywFuBmn_7NKQuhqrRxBXHcuR0vo","domain":"passport","level":"info","message":"Confirm password reset"}
+{"date":1613813261961,"email":"bbb@gmail.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613813261961,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613814709732,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613814709732,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to trigger password reset"}
+{"date":1613814709732,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to trigger password reset"}
+{"date":1613814709732,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to trigger password reset"}
+{"date":1613814709732,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to trigger password reset"}
+{"date":1613814709732,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613814709732,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to trigger password reset"}
+{"date":1613814709732,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613814709732,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to trigger password reset"}
+{"date":1613814709732,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to trigger password reset"}
+{"date":1613814709732,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to trigger password reset"}
+{"date":1613814709732,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to trigger password reset"}
+{"date":1613814709732,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to trigger password reset"}
+{"date":1613814709732,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to trigger password reset"}
+{"date":1613814709732,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to trigger password reset"}
+{"date":1613814709732,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to trigger password reset"}
+{"date":1613814709732,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to trigger password reset"}
+{"date":1613814709732,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to trigger password reset"}
+{"date":1613816065064,"email":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","removedUser":{"userId":"602c1bffbeb62935f461edd0"},"domain":"users","level":"info","message":"Enable user access"}
+{"date":1613816065064,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to trigger password reset"}
+{"date":1613816176353,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to trigger password reset"}
+{"date":1613816176353,"email":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","removedUser":{"userId":"603003bca2c2710bbcfdd90f"},"domain":"users","level":"info","message":"Enable user access"}
+{"date":1613816176353,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to trigger password reset"}
+{"date":1613816176353,"email":"flaap6@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613816176353,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613816176353,"articleId":"6030aa40814ee6382c1e3f4b","userId":"602b5957359d7605d4cb12fa","domain":"articles","level":"info","message":"Article reviewed"}
+{"date":1613816176353,"articleId":"6030aa0f1ba10505cc5e51e9","userId":"602b5957359d7605d4cb12fa","domain":"articles","level":"info","message":"Article reviewed"}
+{"date":1613816176353,"articleId":"6030aa7cde1d844730e5fd50","userId":"602b5957359d7605d4cb12fa","domain":"articles","level":"info","message":"Article reviewed"}
+{"date":1613816176353,"articleId":"6030aa9f1a5c384ce892b972","userId":"602b5957359d7605d4cb12fa","domain":"articles","level":"info","message":"Article reviewed"}
+{"date":1613816176353,"articleId":"6030aabe1a5c384ce892b974","userId":"602b5957359d7605d4cb12fa","domain":"articles","level":"info","message":"Article reviewed"}
+{"date":1613816176353,"articleId":"6030aae32fb0894f00786108","userId":"602b5957359d7605d4cb12fa","domain":"articles","level":"info","message":"Article reviewed"}
+{"date":1613816176353,"articleId":"6030aafa055a9359804d3f9d","userId":"602b5957359d7605d4cb12fa","domain":"articles","level":"info","message":"Article reviewed"}
+{"date":1613816176353,"articleId":"6030ab0f04d2363868a49d65","userId":"602b5957359d7605d4cb12fa","domain":"articles","level":"info","message":"Article reviewed"}
+{"date":1613816176353,"articleId":"6030ab2dc626065824383428","userId":"602b5957359d7605d4cb12fa","domain":"articles","level":"info","message":"Article reviewed"}
+{"date":1613816176353,"email":"flaap6@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613816176353,"articleId":"602ff9de0c925d37447aef6f","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613816176353,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613816176353,"articleId":"6030aa9f1a5c384ce892b972","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613816343570,"articleId":"602ff9de0c925d37447aef6f","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613816343570,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613816343570,"articleId":"6030aa9f1a5c384ce892b972","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613816672737,"articleId":"602ff9de0c925d37447aef6f","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613816672737,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613816672737,"articleId":"6030aa9f1a5c384ce892b972","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613817001846,"articleId":"602ff9de0c925d37447aef6f","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613817001846,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613817001846,"articleId":"6030aa9f1a5c384ce892b972","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613817470220,"articleId":"602ff9de0c925d37447aef6f","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613817470220,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613817470220,"articleId":"6030aa9f1a5c384ce892b972","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613817570181,"articleId":"602ff9de0c925d37447aef6f","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613817570181,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613817570181,"articleId":"6030aa9f1a5c384ce892b972","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613817628259,"email":"flaap6@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613817628259,"articleId":"6030aa0f1ba10505cc5e51e9","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613817628259,"articleId":"6030aa40814ee6382c1e3f4b","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613817628259,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613817714327,"articleId":"6030aa0f1ba10505cc5e51e9","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613817714327,"articleId":"6030aa40814ee6382c1e3f4b","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613817714327,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613817714327,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613817714327,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJjMWJmZmJlYjYyOTM1ZjQ2MWVkZDAiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDZAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJERUZBVUxUX1VTRVIiLCJ0b2tlbiI6bnVsbCwiX192IjowLCJpYXQiOjE2MTM1MDM1MjF9.7aKAsS8RHKvaGJr5XF1Q1BZbINk00FEfeBZMYkzD-yM","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to authenticate token for password reset"}
+{"date":1613817714327,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJjMWJmZmJlYjYyOTM1ZjQ2MWVkZDAiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDZAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJERUZBVUxUX1VTRVIiLCJ0b2tlbiI6bnVsbCwiX192IjowLCJpYXQiOjE2MTM1MDM1MjF9.7aKAsS8RHKvaGJr5XF1Q1BZbINk00FEfeBZMYkzD-yM","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to authenticate token for password reset"}
+{"date":1613817714327,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJjMWJmZmJlYjYyOTM1ZjQ2MWVkZDAiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDZAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJERUZBVUxUX1VTRVIiLCJ0b2tlbiI6bnVsbCwiX192IjowLCJpYXQiOjE2MTM1MDM1MjF9.7aKAsS8RHKvaGJr5XF1Q1BZbINk00FEfeBZMYkzD-yM","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to authenticate token for password reset"}
+{"date":1613817714327,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJjMWJmZmJlYjYyOTM1ZjQ2MWVkZDAiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDZAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJERUZBVUxUX1VTRVIiLCJ0b2tlbiI6bnVsbCwiX192IjowLCJpYXQiOjE2MTM1MDM1MjF9.7aKAsS8RHKvaGJr5XF1Q1BZbINk00FEfeBZMYkzD-yM","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to authenticate token for password reset"}
+{"date":1613818069771,"articleId":"6030aa0f1ba10505cc5e51e9","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613818069771,"articleId":"6030aa40814ee6382c1e3f4b","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613818069771,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613818069771,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613818069771,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJjMWJmZmJlYjYyOTM1ZjQ2MWVkZDAiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDZAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJERUZBVUxUX1VTRVIiLCJ0b2tlbiI6bnVsbCwiX192IjowLCJpYXQiOjE2MTM1MDM1MjF9.7aKAsS8RHKvaGJr5XF1Q1BZbINk00FEfeBZMYkzD-yM","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to authenticate token for password reset"}
+{"date":1613818069771,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJjMWJmZmJlYjYyOTM1ZjQ2MWVkZDAiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDZAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJERUZBVUxUX1VTRVIiLCJ0b2tlbiI6bnVsbCwiX192IjowLCJpYXQiOjE2MTM1MDM1MjF9.7aKAsS8RHKvaGJr5XF1Q1BZbINk00FEfeBZMYkzD-yM","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to authenticate token for password reset"}
+{"date":1613819182453,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJjMWJmZmJlYjYyOTM1ZjQ2MWVkZDAiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDZAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJERUZBVUxUX1VTRVIiLCJ0b2tlbiI6bnVsbCwiX192IjowLCJpYXQiOjE2MTM1MDM1MjF9.7aKAsS8RHKvaGJr5XF1Q1BZbINk00FEfeBZMYkzD-yM","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to authenticate token for password reset"}
+{"date":1613819381722,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJjMWJmZmJlYjYyOTM1ZjQ2MWVkZDAiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDZAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJERUZBVUxUX1VTRVIiLCJ0b2tlbiI6bnVsbCwiX192IjowLCJpYXQiOjE2MTM1MDM1MjF9.7aKAsS8RHKvaGJr5XF1Q1BZbINk00FEfeBZMYkzD-yM","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to authenticate token for password reset"}
+{"date":1613819467320,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJjMWJmZmJlYjYyOTM1ZjQ2MWVkZDAiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDZAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJERUZBVUxUX1VTRVIiLCJ0b2tlbiI6bnVsbCwiX192IjowLCJpYXQiOjE2MTM1MDM1MjF9.7aKAsS8RHKvaGJr5XF1Q1BZbINk00FEfeBZMYkzD-yM","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to authenticate token for password reset"}
+{"date":1613819610536,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJjMWJmZmJlYjYyOTM1ZjQ2MWVkZDAiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDZAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJERUZBVUxUX1VTRVIiLCJ0b2tlbiI6bnVsbCwiX192IjowLCJpYXQiOjE2MTM1MDM1MjF9.7aKAsS8RHKvaGJr5XF1Q1BZbINk00FEfeBZMYkzD-yM","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to authenticate token for password reset"}
+{"date":1613819610536,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJjMWJmZmJlYjYyOTM1ZjQ2MWVkZDAiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDZAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJERUZBVUxUX1VTRVIiLCJ0b2tlbiI6bnVsbCwiX192IjowLCJpYXQiOjE2MTM1MDM1MjF9.7aKAsS8RHKvaGJr5XF1Q1BZbINk00FEfeBZMYkzD-yM","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to authenticate token for password reset"}
+{"date":1613819694712,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJjMWJmZmJlYjYyOTM1ZjQ2MWVkZDAiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDZAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJERUZBVUxUX1VTRVIiLCJ0b2tlbiI6bnVsbCwiX192IjowLCJpYXQiOjE2MTM1MDM1MjF9.7aKAsS8RHKvaGJr5XF1Q1BZbINk00FEfeBZMYkzD-yM","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to authenticate token for password reset"}
+{"date":1613819707763,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJjMWJmZmJlYjYyOTM1ZjQ2MWVkZDAiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDZAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJERUZBVUxUX1VTRVIiLCJ0b2tlbiI6bnVsbCwiX192IjowLCJpYXQiOjE2MTM1MDM1MjF9.7aKAsS8RHKvaGJr5XF1Q1BZbINk00FEfeBZMYkzD-yM","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to authenticate token for password reset"}
+{"date":1613819707763,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613819763274,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to authenticate token for password reset"}
+{"date":1613819763274,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to authenticate token for password reset"}
+{"date":1613819763274,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to authenticate token for password reset"}
+{"date":1613819763274,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to authenticate token for password reset"}
+{"date":1613819763274,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to authenticate token for password reset"}
+{"date":1613819763274,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to authenticate token for password reset"}
+{"date":1613819763274,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to authenticate token for password reset"}
+{"date":1613819763274,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to authenticate token for password reset"}
+{"date":1613819763274,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to authenticate token for password reset"}
+{"date":1613819763274,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to authenticate token for password reset"}
+{"date":1613819763274,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJiNTk1NzM1OWQ3NjA1ZDRjYjEyZmEiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzQ1MzY3MH0.FFFJ8oW6pfiRFCYcj-xnc9w8ZinMJn4IQ1xGFaT-FwU","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to authenticate token for password reset"}
+{"date":1613819763274,"email":"flaap6@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613819763274,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJjMWJmZmJlYjYyOTM1ZjQ2MWVkZDAiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDZAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJERUZBVUxUX1VTRVIiLCJ0b2tlbiI6bnVsbCwiX192IjowLCJpYXQiOjE2MTM1MDM1MjF9.7aKAsS8RHKvaGJr5XF1Q1BZbINk00FEfeBZMYkzD-yM","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to authenticate token for password reset"}
+{"date":1613819763274,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJjMWJmZmJlYjYyOTM1ZjQ2MWVkZDAiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDZAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJERUZBVUxUX1VTRVIiLCJ0b2tlbiI6bnVsbCwiX192IjowLCJpYXQiOjE2MTM1MDM1MjF9.7aKAsS8RHKvaGJr5XF1Q1BZbINk00FEfeBZMYkzD-yM","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to authenticate token for password reset"}
+{"date":1613822767965,"articleId":"6030aa40814ee6382c1e3f4b","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613822767965,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613822931162,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJjMWJmZmJlYjYyOTM1ZjQ2MWVkZDAiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDZAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJERUZBVUxUX1VTRVIiLCJ0b2tlbiI6bnVsbCwiX192IjowLCJpYXQiOjE2MTM1MDM1MjF9.7aKAsS8RHKvaGJr5XF1Q1BZbINk00FEfeBZMYkzD-yM","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to authenticate token for password reset"}
+{"date":1613822990015,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJjMWJmZmJlYjYyOTM1ZjQ2MWVkZDAiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDZAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJERUZBVUxUX1VTRVIiLCJ0b2tlbiI6bnVsbCwiX192IjowLCJpYXQiOjE2MTM1MDM1MjF9.7aKAsS8RHKvaGJr5XF1Q1BZbINk00FEfeBZMYkzD-yM","body":{},"error":{"value":"ReferenceError: decrypted is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"passport","level":"error","message":"Failed to authenticate token"}
+{"date":1613823020148,"email":"flaap6@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613823020148,"articleId":"6030aa0f1ba10505cc5e51e9","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613823020148,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613823139549,"articleId":"6030aa0f1ba10505cc5e51e9","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613823139549,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613823139549,"email":"flaap6@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613823139549,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613823139549,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613823224648,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613823224648,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613823298459,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613823298459,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613823693299,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613823693299,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613823720205,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613823720205,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613823802470,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJjMWJmZmJlYjYyOTM1ZjQ2MWVkZDAiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDZAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJERUZBVUxUX1VTRVIiLCJ0b2tlbiI6bnVsbCwiX192IjowLCJpYXQiOjE2MTM1MDM1MjF9.7aKAsS8RHKvaGJr5XF1Q1BZbINk00FEfeBZMYkzD-yM","body":["6030aa7cde1d844730e5fd50"],"error":{"value":"ReferenceError: articleId is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"purchases","level":"error","message":"Failed to checkout cart"}
+{"date":1613823802470,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJjMWJmZmJlYjYyOTM1ZjQ2MWVkZDAiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDZAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJERUZBVUxUX1VTRVIiLCJ0b2tlbiI6bnVsbCwiX192IjowLCJpYXQiOjE2MTM1MDM1MjF9.7aKAsS8RHKvaGJr5XF1Q1BZbINk00FEfeBZMYkzD-yM","body":["6030aa7cde1d844730e5fd50"],"error":{"value":"ReferenceError: articleId is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"purchases","level":"error","message":"Failed to checkout cart"}
+{"date":1613823802470,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJjMWJmZmJlYjYyOTM1ZjQ2MWVkZDAiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDZAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJERUZBVUxUX1VTRVIiLCJ0b2tlbiI6bnVsbCwiX192IjowLCJpYXQiOjE2MTM1MDM1MjF9.7aKAsS8RHKvaGJr5XF1Q1BZbINk00FEfeBZMYkzD-yM","body":["6030aa7cde1d844730e5fd50"],"error":{"value":"ReferenceError: articleId is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"purchases","level":"error","message":"Failed to checkout cart"}
+{"date":1613823815943,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDJjMWJmZmJlYjYyOTM1ZjQ2MWVkZDAiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJmbGFhcDZAemFpbGFiLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJERUZBVUxUX1VTRVIiLCJ0b2tlbiI6bnVsbCwiX192IjowLCJpYXQiOjE2MTM1MDM1MjF9.7aKAsS8RHKvaGJr5XF1Q1BZbINk00FEfeBZMYkzD-yM","body":["6030aa7cde1d844730e5fd50"],"error":{"value":"ReferenceError: articleId is not defined","writable":true,"enumerable":false,"configurable":true},"domain":"purchases","level":"error","message":"Failed to checkout cart"}
+{"date":1613823866385,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613823866385,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613823893617,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613823893617,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613823977747,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613823977747,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613824061825,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613824061825,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613824168665,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613824168665,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613824192220,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613824199798,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613824199798,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613824272575,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613824272575,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613824304963,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613824304963,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613824439104,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613824439104,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613824471298,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613824471298,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613824745073,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613824745073,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613824830262,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613824830262,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613825180737,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613825180737,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613825234257,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613825234257,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613825259470,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613825259470,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613825298359,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613825298359,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613825552823,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613825552823,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613825796432,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613825796432,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613825832057,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613825832057,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613825857134,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613825857134,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613825883991,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613825883991,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613825913932,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613825913932,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613825955434,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613825955434,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613826096677,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613826096677,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613826489324,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613826489324,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613827025789,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613827025789,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613827025789,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613827043579,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613827043579,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613827043579,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613827221298,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613827281849,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613827281849,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613827499902,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613827552396,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613827605131,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613827625069,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613827650787,"email":"flaap6@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613827650787,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613827650787,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613828206556,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613828206556,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613828272493,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613828272493,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613828272493,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613828272493,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613828272493,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613828272493,"articleId":"6030ab2dc626065824383428","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613828272493,"articleId":"6030aabe1a5c384ce892b974","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613828272493,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613828272493,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613828272493,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613828272493,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613828445087,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613828445087,"articleId":"6030ab2dc626065824383428","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613828445087,"articleId":"6030aabe1a5c384ce892b974","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613828445087,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613828445087,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613828445087,"articleId":"6030ab2dc626065824383428","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613828445087,"articleId":"6030aabe1a5c384ce892b974","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613828445087,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613828445087,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613828445087,"articleId":"6030ab2dc626065824383428","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613828445087,"articleId":"6030aabe1a5c384ce892b974","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613828445087,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613828598198,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613828598198,"articleId":"6030ab2dc626065824383428","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613828598198,"articleId":"6030aabe1a5c384ce892b974","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613828598198,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613828701318,"articleId":"6030aa7cde1d844730e5fd50","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613828701318,"articleId":"6030ab2dc626065824383428","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613828701318,"articleId":"6030aabe1a5c384ce892b974","userId":"602c1bffbeb62935f461edd0","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613828701318,"email":"flaap6@zailab.com","userId":"602c1bffbeb62935f461edd0","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613828701318,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613828701318,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613828701318,"email":"flaap1@zailab.com","userId":"60321a4771b3b332a4e3d39b","decrypted":"is-anonymous","domain":"passport","level":"info","message":"Submit registration"}
+{"date":1613828701318,"email":"flaap1@zailab.com","userId":"60321a4771b3b332a4e3d39b","domain":"email","level":"info","message":"Confirm registration email sent"}
+{"date":1613896388784,"email":"flaap1@zailab.com","userId":"60321adfcd75a12d402e118e","decrypted":"is-anonymous","domain":"passport","level":"info","message":"Submit registration"}
+{"date":1613896388784,"email":"flaap1@zailab.com","userId":"60321adfcd75a12d402e118e","domain":"email","level":"info","message":"Confirm registration email sent"}
+{"date":1613896677371,"email":"bt1phillip@gmail.com","userId":"60321bf51902740234c0a317","decrypted":"is-anonymous","domain":"passport","level":"info","message":"Submit registration"}
+{"date":1613896677371,"email":"bt1phillip@gmail.com","userId":"60321bf51902740234c0a317","domain":"email","level":"info","message":"Confirm registration email sent"}
+{"date":1613896970660,"email":"bt1phillip@gmail.com","userId":"60321d2326a2b10094cbbe5c","decrypted":"is-anonymous","domain":"passport","level":"info","message":"Submit registration"}
+{"date":1613896970660,"email":"bt1phillip@gmail.com","userId":"60321d2326a2b10094cbbe5c","domain":"email","level":"info","message":"Confirm registration email sent"}
+{"date":1613897168417,"email":"bt1phillip@gmail.com","userId":"60321dd206bd3b25cc542e54","decrypted":"is-anonymous","domain":"passport","level":"info","message":"Submit registration"}
+{"date":1613897168417,"email":"bt1phillip@gmail.com","userId":"60321dd206bd3b25cc542e54","domain":"email","level":"info","message":"Confirm registration email sent"}
+{"date":1613897238443,"email":"bt1phillip@gmail.com","userId":"60321e1f8e0f0857885d088b","decrypted":"is-anonymous","domain":"passport","level":"info","message":"Submit registration"}
+{"date":1613897238443,"email":"bt1phillip@gmail.com","userId":"60321e1f8e0f0857885d088b","domain":"email","level":"info","message":"Confirm registration email sent"}
+{"date":1613897238443,"email":"bt1phillip@gmail.com","domain":"passport","level":"info","message":"Registration Complete"}
+{"date":1613897238443,"email":"bt1phillip@gmail.com","userId":"60321e1f8e0f0857885d088b","domain":"email","level":"info","message":"Registration completed email sent"}
+{"date":1613897238443,"email":"bt1phillip@gmail.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613897238443,"email":"flaap2@zailab.com","userId":"60321eb68e0f0857885d088c","decrypted":"is-anonymous","domain":"passport","level":"info","message":"Submit registration"}
+{"date":1613897238443,"email":"flaap2@zailab.com","userId":"60321eb68e0f0857885d088c","domain":"email","level":"info","message":"Confirm registration email sent"}
+{"date":1613897238443,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"Registration Complete"}
+{"date":1613897238443,"email":"flaap2@zailab.com","userId":"60321eb68e0f0857885d088c","domain":"email","level":"info","message":"Registration completed email sent"}
+{"date":1613897238443,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613897238443,"articleId":"60321ee58e0f0857885d088d","domain":"articles","level":"info","message":"Article created"}
+{"date":1613897238443,"email":"bt1phillip@gmail.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613897238443,"articleId":"60321ee58e0f0857885d088d","userId":"60321e1f8e0f0857885d088b","domain":"articles","level":"info","message":"Article reviewed"}
+{"date":1613897238443,"email":"bt1phillip@gmail.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613897238443,"email":"bt1phillip@gmail.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613897238443,"email":"bt1phillip@gmail.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613897238443,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613897238443,"email":"flaap3@zailab.com","userId":"60321fba8e0f0857885d0896","decrypted":"is-anonymous","domain":"passport","level":"info","message":"Submit registration"}
+{"date":1613897238443,"email":"flaap3@zailab.com","userId":"60321fba8e0f0857885d0896","domain":"email","level":"info","message":"Confirm registration email sent"}
+{"date":1613897238443,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Registration Complete"}
+{"date":1613897238443,"email":"flaap3@zailab.com","userId":"60321fba8e0f0857885d0896","domain":"email","level":"info","message":"Registration completed email sent"}
+{"date":1613897238443,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613897238443,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613897238443,"articleId":"60321ee58e0f0857885d088d","userId":"60321fba8e0f0857885d0896","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613897238443,"email":"flaap3@zailab.com","userId":"60321fba8e0f0857885d0896","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613898104474,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613898104474,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613898104474,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613898104474,"email":"bt1phillip@gmail.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899187709,"email":"bt1phillip@gmail.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"bt1phillip@gmail.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899252713,"email":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDMyMWUxZjhlMGYwODU3ODg1ZDA4OGIiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJidDFwaGlsbGlwQGdtYWlsLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzg5NzI3NH0.2jRIEOk8Lgx-sbIapRPKcgM6M_ELth1PE8BavqKEQiw","removedUser":{"userId":"60321fba8e0f0857885d0896"},"domain":"users","level":"info","message":"Enable user access"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"bt1phillip@gmail.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899252713,"email":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDMyMWUxZjhlMGYwODU3ODg1ZDA4OGIiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJidDFwaGlsbGlwQGdtYWlsLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzg5NzI3NH0.2jRIEOk8Lgx-sbIapRPKcgM6M_ELth1PE8BavqKEQiw","removedUser":{"userId":"60321fba8e0f0857885d0896"},"domain":"users","level":"info","message":"Enable user access"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899252713,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899252713,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899252713,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899252713,"email":"bt1phillip@gmail.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899252713,"email":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDMyMWUxZjhlMGYwODU3ODg1ZDA4OGIiLCJmaXJzdE5hbWUiOiJQaGlsbGlwLUp1YW4iLCJzdXJuYW1lIjoiVmFuIGRlciBCZXJnIiwiZW1haWwiOiJidDFwaGlsbGlwQGdtYWlsLmNvbSIsIm51bWJlciI6IisyNzcxMjU2OTQzMSIsInJvbGUiOiJBZG1pbiIsInRva2VuIjpudWxsLCJfX3YiOjAsImlhdCI6MTYxMzg5NzI3NH0.2jRIEOk8Lgx-sbIapRPKcgM6M_ELth1PE8BavqKEQiw","removedUser":{"userId":"60321eb68e0f0857885d088c"},"domain":"users","level":"info","message":"Enable user access"}
+{"date":1613899252713,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899252713,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"articleId":"60321ee58e0f0857885d088d","userId":"60321fba8e0f0857885d0896","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613899252713,"email":"flaap3@zailab.com","userId":"60321fba8e0f0857885d0896","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899252713,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899252713,"articleId":"603238ca832d0c0af0f89d43","domain":"articles","level":"info","message":"Article created"}
+{"date":1613899252713,"articleId":"603238cf832d0c0af0f89d48","domain":"articles","level":"info","message":"Article created"}
+{"date":1613899252713,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap1@zailab.com","userId":"603239d5832d0c0af0f89d5a","decrypted":"is-anonymous","domain":"passport","level":"info","message":"Submit registration"}
+{"date":1613899252713,"email":"flaap1@zailab.com","userId":"603239d5832d0c0af0f89d5a","domain":"email","level":"info","message":"Confirm registration email sent"}
+{"date":1613899252713,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Registration Complete"}
+{"date":1613899252713,"email":"flaap1@zailab.com","userId":"603239d5832d0c0af0f89d5a","domain":"email","level":"info","message":"Registration completed email sent"}
+{"date":1613899252713,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899252713,"articleId":"603238ca832d0c0af0f89d43","userId":"603239d5832d0c0af0f89d5a","domain":"articles","level":"info","message":"Article reviewed"}
+{"date":1613899252713,"articleId":"603238cf832d0c0af0f89d48","userId":"603239d5832d0c0af0f89d5a","domain":"articles","level":"info","message":"Article reviewed"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899252713,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"articleId":"603243fa832d0c0af0f89ddf","domain":"articles","level":"info","message":"Article created"}
+{"date":1613899252713,"articleId":"603243ff832d0c0af0f89de8","domain":"articles","level":"info","message":"Article created"}
+{"date":1613899252713,"articleId":"60324405832d0c0af0f89df2","domain":"articles","level":"info","message":"Article created"}
+{"date":1613899252713,"articleId":"6032440c832d0c0af0f89dfd","domain":"articles","level":"info","message":"Article created"}
+{"date":1613899252713,"articleId":"60324411832d0c0af0f89e09","domain":"articles","level":"info","message":"Article created"}
+{"date":1613899252713,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899252713,"articleId":"603243ff832d0c0af0f89de8","userId":"603239d5832d0c0af0f89d5a","domain":"articles","level":"info","message":"Article reviewed"}
+{"date":1613899252713,"articleId":"6032440c832d0c0af0f89dfd","userId":"603239d5832d0c0af0f89d5a","domain":"articles","level":"info","message":"Article reviewed"}
+{"date":1613899252713,"articleId":"60324405832d0c0af0f89df2","userId":"603239d5832d0c0af0f89d5a","domain":"articles","level":"info","message":"Article reviewed"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899252713,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899252713,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613899252713,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"articleId":"60321ee58e0f0857885d088d","userId":"60321fba8e0f0857885d0896","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613920469920,"email":"flaap3@zailab.com","userId":"60321fba8e0f0857885d0896","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613920469920,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613920469920,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613920469920,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613922429247,"email":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDMyMzlkNTgzMmQwYzBhZjBmODlkNWEiLCJmaXJzdE5hbWUiOiJGbGFhcCIsInN1cm5hbWUiOiJBZG1pbiIsImVtYWlsIjoiZmxhYXAxQHphaWxhYi5jb20iLCJudW1iZXIiOiIwNzEyNTY5NDMxIiwicm9sZSI6IkFkbWluIiwidG9rZW4iOm51bGwsIl9fdiI6MCwiaWF0IjoxNjEzOTA0MzYwfQ.4c0mTqwE2_sATAOjTRrI4dB5BQm6Ih_vp5v8ZRPSKoE","removedUser":{"userId":"60321eb68e0f0857885d088c"},"domain":"users","level":"info","message":"Enable user access"}
+{"date":1613922429247,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613922429247,"email":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDMyMzlkNTgzMmQwYzBhZjBmODlkNWEiLCJmaXJzdE5hbWUiOiJGbGFhcCIsInN1cm5hbWUiOiJBZG1pbiIsImVtYWlsIjoiZmxhYXAxQHphaWxhYi5jb20iLCJudW1iZXIiOiIwNzEyNTY5NDMxIiwicm9sZSI6IkFkbWluIiwidG9rZW4iOm51bGwsIl9fdiI6MCwiaWF0IjoxNjEzOTA0MzYwfQ.4c0mTqwE2_sATAOjTRrI4dB5BQm6Ih_vp5v8ZRPSKoE","removedUser":{"userId":"60321eb68e0f0857885d088c"},"domain":"users","level":"info","message":"Enable user access"}
+{"date":1613922429247,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613922429247,"email":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDMyMzlkNTgzMmQwYzBhZjBmODlkNWEiLCJmaXJzdE5hbWUiOiJGbGFhcCIsInN1cm5hbWUiOiJBZG1pbiIsImVtYWlsIjoiZmxhYXAxQHphaWxhYi5jb20iLCJudW1iZXIiOiIwNzEyNTY5NDMxIiwicm9sZSI6IkFkbWluIiwidG9rZW4iOm51bGwsIl9fdiI6MCwiaWF0IjoxNjEzOTA0MzYwfQ.4c0mTqwE2_sATAOjTRrI4dB5BQm6Ih_vp5v8ZRPSKoE","removedUser":{"userId":"60321eb68e0f0857885d088c"},"domain":"users","level":"info","message":"Enable user access"}
+{"date":1613922524748,"email":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDMyMzlkNTgzMmQwYzBhZjBmODlkNWEiLCJmaXJzdE5hbWUiOiJGbGFhcCIsInN1cm5hbWUiOiJBZG1pbiIsImVtYWlsIjoiZmxhYXAxQHphaWxhYi5jb20iLCJudW1iZXIiOiIwNzEyNTY5NDMxIiwicm9sZSI6IkFkbWluIiwidG9rZW4iOm51bGwsIl9fdiI6MCwiaWF0IjoxNjEzOTA0MzYwfQ.4c0mTqwE2_sATAOjTRrI4dB5BQm6Ih_vp5v8ZRPSKoE","removedUser":{"userId":"60321eb68e0f0857885d088c"},"domain":"users","level":"info","message":"Enable user access"}
+{"date":1613922524748,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613922524748,"email":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDMyMzlkNTgzMmQwYzBhZjBmODlkNWEiLCJmaXJzdE5hbWUiOiJGbGFhcCIsInN1cm5hbWUiOiJBZG1pbiIsImVtYWlsIjoiZmxhYXAxQHphaWxhYi5jb20iLCJudW1iZXIiOiIwNzEyNTY5NDMxIiwicm9sZSI6IkFkbWluIiwidG9rZW4iOm51bGwsIl9fdiI6MCwiaWF0IjoxNjEzOTA0MzYwfQ.4c0mTqwE2_sATAOjTRrI4dB5BQm6Ih_vp5v8ZRPSKoE","removedUser":{"userId":"60321eb68e0f0857885d088c"},"domain":"users","level":"info","message":"Enable user access"}
+{"date":1613922524748,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613922524748,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613922524748,"email":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDMyMzlkNTgzMmQwYzBhZjBmODlkNWEiLCJmaXJzdE5hbWUiOiJGbGFhcCIsInN1cm5hbWUiOiJBZG1pbiIsImVtYWlsIjoiZmxhYXAxQHphaWxhYi5jb20iLCJudW1iZXIiOiIwNzEyNTY5NDMxIiwicm9sZSI6IkFkbWluIiwidG9rZW4iOm51bGwsIl9fdiI6MCwiaWF0IjoxNjEzOTA0MzYwfQ.4c0mTqwE2_sATAOjTRrI4dB5BQm6Ih_vp5v8ZRPSKoE","removedUser":{"userId":"60321eb68e0f0857885d088c"},"domain":"users","level":"info","message":"Disable user access"}
+{"date":1613922524748,"email":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDMyMzlkNTgzMmQwYzBhZjBmODlkNWEiLCJmaXJzdE5hbWUiOiJGbGFhcCIsInN1cm5hbWUiOiJBZG1pbiIsImVtYWlsIjoiZmxhYXAxQHphaWxhYi5jb20iLCJudW1iZXIiOiIwNzEyNTY5NDMxIiwicm9sZSI6IkFkbWluIiwidG9rZW4iOm51bGwsIl9fdiI6MCwiaWF0IjoxNjEzOTA0MzYwfQ.4c0mTqwE2_sATAOjTRrI4dB5BQm6Ih_vp5v8ZRPSKoE","removedUser":{"userId":"60321eb68e0f0857885d088c"},"domain":"users","level":"info","message":"Enable user access"}
+{"date":1613922524748,"email":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDMyMzlkNTgzMmQwYzBhZjBmODlkNWEiLCJmaXJzdE5hbWUiOiJGbGFhcCIsInN1cm5hbWUiOiJBZG1pbiIsImVtYWlsIjoiZmxhYXAxQHphaWxhYi5jb20iLCJudW1iZXIiOiIwNzEyNTY5NDMxIiwicm9sZSI6IkFkbWluIiwidG9rZW4iOm51bGwsIl9fdiI6MCwiaWF0IjoxNjEzOTA0MzYwfQ.4c0mTqwE2_sATAOjTRrI4dB5BQm6Ih_vp5v8ZRPSKoE","removedUser":{"userId":"60321eb68e0f0857885d088c"},"domain":"users","level":"info","message":"Disable user access"}
+{"date":1613922524748,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613922524748,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613922524748,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613922524748,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613922524748,"email":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDMyMzlkNTgzMmQwYzBhZjBmODlkNWEiLCJmaXJzdE5hbWUiOiJGbGFhcCIsInN1cm5hbWUiOiJBZG1pbiIsImVtYWlsIjoiZmxhYXAxQHphaWxhYi5jb20iLCJudW1iZXIiOiIwNzEyNTY5NDMxIiwicm9sZSI6IkFkbWluIiwidG9rZW4iOm51bGwsIl9fdiI6MCwiaWF0IjoxNjEzOTA0MzYwfQ.4c0mTqwE2_sATAOjTRrI4dB5BQm6Ih_vp5v8ZRPSKoE","removedUser":{"userId":"60321eb68e0f0857885d088c"},"domain":"users","level":"info","message":"Enable user access"}
+{"date":1613922524748,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613922524748,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613922524748,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613922524748,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613922524748,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613922524748,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613922524748,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613922524748,"email":"flaap2@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613922524748,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613922524748,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613922524748,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613922524748,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613922524748,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613922524748,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613922524748,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613922524748,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613922524748,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613922524748,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613922524748,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613922524748,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613922524748,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613922524748,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613922524748,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613928728448,"email":"flaap4@zailab.com","userId":"603299562428e83e688f129b","decrypted":"is-anonymous","domain":"passport","level":"info","message":"Submit registration"}
+{"date":1613928728448,"email":"flaap4@zailab.com","userId":"603299562428e83e688f129b","domain":"email","level":"info","message":"Confirm registration email sent"}
+{"date":1613928728448,"email":"flaap4@zailab.com","domain":"passport","level":"info","message":"Registration Complete"}
+{"date":1613928728448,"email":"flaap4@zailab.com","userId":"603299562428e83e688f129b","domain":"email","level":"info","message":"Registration completed email sent"}
+{"date":1613928728448,"email":"flaap4@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613928728448,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613928728448,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613928728448,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613928728448,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613928728448,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613928728448,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613928728448,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613928728448,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613928728448,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613928728448,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613928728448,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613928728448,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613928728448,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613928728448,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613928728448,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613928728448,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613928728448,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613928728448,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613928728448,"email":"flaap4@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613928728448,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613928728448,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613928728448,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613928728448,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613931723516,"articleId":"60321ee58e0f0857885d088d","userId":"60321fba8e0f0857885d0896","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613931723516,"email":"flaap3@zailab.com","userId":"60321fba8e0f0857885d0896","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613931723516,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613933829979,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613933829979,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613933829979,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613933829979,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613933829979,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613933829979,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613933829979,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613933829979,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613933829979,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613935131159,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613935131159,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613935396243,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613974921921,"email":"flaap1@zailab.com","userId":"603355e6024ae45d90e43ab4","decrypted":"is-anonymous","domain":"passport","level":"info","message":"Submit registration"}
+{"date":1613974921921,"email":"flaap1@zailab.com","userId":"603355e6024ae45d90e43ab4","domain":"email","level":"info","message":"Confirm registration email sent"}
+{"date":1613974921921,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Registration Complete"}
+{"date":1613974921921,"email":"flaap1@zailab.com","userId":"603355e6024ae45d90e43ab4","domain":"email","level":"info","message":"Registration completed email sent"}
+{"date":1613974921921,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613974921921,"email":"nancy@smellytoes.com","userId":"60335641024ae45d90e43ab5","decrypted":"is-anonymous","domain":"passport","level":"info","message":"Submit registration"}
+{"date":1613974921921,"email":"nancy@smellytoes.com","userId":"60335641024ae45d90e43ab5","domain":"email","level":"info","message":"Confirm registration email sent"}
+{"date":1613974921921,"email":"nancy@smellytoes.com","domain":"passport","level":"info","message":"Registration Complete"}
+{"date":1613974921921,"email":"nancy@smellytoes.com","userId":"60335641024ae45d90e43ab5","domain":"email","level":"info","message":"Registration completed email sent"}
+{"date":1613974921921,"email":"nancy@smellytoes.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613974921921,"email":"nancy@smellytoes.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613974921921,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613974921921,"email":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDMzNTVlNjAyNGFlNDVkOTBlNDNhYjQiLCJmaXJzdE5hbWUiOiJQaGlsbGlwIiwic3VybmFtZSI6IkFkbWluIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IjA3MTI1Njk0MzEiLCJyb2xlIjoiQWRtaW4iLCJ0b2tlbiI6bnVsbCwiX192IjowLCJpYXQiOjE2MTM5NzcwODh9.kqn_Z9h5TmPYmu-UkZTkSTogZdOqsEaxxE7JCyhpK1w","removedUser":{"userId":"60335641024ae45d90e43ab5"},"domain":"users","level":"info","message":"Enable user access"}
+{"date":1613974921921,"email":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDMzNTVlNjAyNGFlNDVkOTBlNDNhYjQiLCJmaXJzdE5hbWUiOiJQaGlsbGlwIiwic3VybmFtZSI6IkFkbWluIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IjA3MTI1Njk0MzEiLCJyb2xlIjoiQWRtaW4iLCJ0b2tlbiI6bnVsbCwiX192IjowLCJpYXQiOjE2MTM5NzcwODh9.kqn_Z9h5TmPYmu-UkZTkSTogZdOqsEaxxE7JCyhpK1w","removedUser":{"userId":"60335641024ae45d90e43ab5"},"domain":"users","level":"info","message":"Enable user access"}
+{"date":1613974921921,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613974921921,"email":"nancy@smellytoes.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613974921921,"articleId":"603356cb024ae45d90e43ab6","domain":"articles","level":"info","message":"Article created"}
+{"date":1613974921921,"audioId":"603356cc024ae45d90e43ab9","articleId":"603356cb024ae45d90e43ab6","userId":"60335641024ae45d90e43ab5","domain":"audio","level":"info","message":"Audio uploaded"}
+{"date":1613974921921,"audioId":"603356cb024ae45d90e43ab6","articleId":"60335641024ae45d90e43ab5","domain":"audio","level":"info","message":"Article reviewed"}
+{"date":1613974921921,"audioId":"603356cc024ae45d90e43ab9","articleId":"60335641024ae45d90e43ab5","domain":"audio","level":"info","message":"Streaming audio"}
+{"date":1613974921921,"articleId":"60335748024ae45d90e43abe","domain":"articles","level":"info","message":"Article created"}
+{"date":1613974921921,"email":"flaap3@zailab.com","userId":"60335771024ae45d90e43ac2","decrypted":"is-anonymous","domain":"passport","level":"info","message":"Submit registration"}
+{"date":1613974921921,"email":"flaap3@zailab.com","userId":"60335771024ae45d90e43ac2","domain":"email","level":"info","message":"Confirm registration email sent"}
+{"date":1613974921921,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Registration Complete"}
+{"date":1613974921921,"email":"flaap3@zailab.com","userId":"60335771024ae45d90e43ac2","domain":"email","level":"info","message":"Registration completed email sent"}
+{"date":1613974921921,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613974921921,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613974921921,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613974921921,"email":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDMzNTVlNjAyNGFlNDVkOTBlNDNhYjQiLCJmaXJzdE5hbWUiOiJQaGlsbGlwIiwic3VybmFtZSI6IkFkbWluIiwiZW1haWwiOiJmbGFhcDFAemFpbGFiLmNvbSIsIm51bWJlciI6IjA3MTI1Njk0MzEiLCJyb2xlIjoiQWRtaW4iLCJ0b2tlbiI6bnVsbCwiX192IjowLCJpYXQiOjE2MTM5NzcwODh9.kqn_Z9h5TmPYmu-UkZTkSTogZdOqsEaxxE7JCyhpK1w","removedUser":{"userId":"60335771024ae45d90e43ac2"},"domain":"users","level":"info","message":"Enable user access"}
+{"date":1613974921921,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613974921921,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613974921921,"articleId":"603356cb024ae45d90e43ab6","userId":"603355e6024ae45d90e43ab4","domain":"articles","level":"info","message":"Article reviewed"}
+{"date":1613974921921,"articleId":"60335748024ae45d90e43abe","userId":"603355e6024ae45d90e43ab4","domain":"articles","level":"info","message":"Article reviewed"}
+{"date":1613974921921,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613974921921,"articleId":"603356cb024ae45d90e43ab6","userId":"60335771024ae45d90e43ac2","domain":"purchases","level":"info","message":"Article purchased"}
+{"date":1613974921921,"email":"flaap3@zailab.com","userId":"60335771024ae45d90e43ac2","domain":"email","level":"info","message":"Purchase email sent"}
+{"date":1613974921921,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613974921921,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613982736471,"email":"flaap4@zailab.com","userId":"60336c8c16144c0684353523","decrypted":"is-anonymous","domain":"passport","level":"info","message":"Submit registration"}
+{"date":1613982736471,"email":"flaap4@zailab.com","userId":"60336c8c16144c0684353523","domain":"email","level":"info","message":"Confirm registration email sent"}
+{"date":1613982736471,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613982736471,"email":"nancy@smellytoes.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613982736471,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1613982736471,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613982736471,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613982736471,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613982736471,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613982736471,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613982736471,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613982736471,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613982736471,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613985042314,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613985042314,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613985042314,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1613985042314,"email":"flaap3@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1614354339913,"email":"flaap1@zailab.com","userId":"60391966687d2c453ce79a27","decrypted":"is-anonymous","domain":"passport","level":"info","message":"Submit registration"}
+{"date":1614354339913,"email":"flaap1@zailab.com","userId":"60391966687d2c453ce79a27","domain":"email","level":"info","message":"Confirm registration email sent"}
+{"date":1614354339913,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Registration Complete"}
+{"date":1614354339913,"email":"flaap1@zailab.com","userId":"60391966687d2c453ce79a27","domain":"email","level":"info","message":"Registration completed email sent"}
+{"date":1614354339913,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1614354339913,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}
+{"date":1614592181443,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"User authenticated"}
+{"date":1614592181443,"email":"flaap1@zailab.com","domain":"passport","level":"info","message":"Token authenticated"}

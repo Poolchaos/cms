@@ -1,0 +1,11 @@
+.vscode
+.env
+node_modules
+
+tmp
+ZANet-be/combined.log
+ZANet-be/error.log
+
+id_rsa_complete
+id_rsa_password_reset
+id_rsa_registration
